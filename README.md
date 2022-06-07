@@ -21,7 +21,7 @@
 
 指定 package.json 中 bin 字段（关于 bin 字段 https://github.com/liujunyang/deep-webpack/issues/2）
 
-
-
 然后执行 npm link 链接到全局即可使用 cli 命令来执行 index.js 文件。
+
+npm-link文档：https://docs.npmjs.com/cli/v8/commands/npm-link
 
