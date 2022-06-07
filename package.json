@@ -1,0 +1,9 @@
+{
+	"name": "cli-test",
+	"bin": {
+		"cli": "./src/index.js"
+	},
+	"dependencies": {
+		"commander": "^9.3.0"
+	}
+}
